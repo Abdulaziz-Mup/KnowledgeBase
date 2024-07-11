@@ -9,21 +9,21 @@ You can flexibly adjust the work of Stealth Mode: for instance, you can prohibit
 
 Below we will list and describe the main features and options that you can control in the **Stealth Mode** settings. They are split into four groups: **General**, **Tracking methods**, **Browser API**, and **Miscellaneous**.
 
-:::note
+:::ملاحظة
 
-Some options may not be available depending on the particular product due to OS or other limitations.
+قد لا تتوفر بعض الخيارات اعتمادًا على منتج معين بسبب نظام التشغيل أو قيود أخرى.
 
 :::
 
-## General {#general}
+## عام {# عام}
 
-### Hide your search queries {#searchqueries}
+### إخفاء استعلامات البحث الخاصة بك {#searchqueries}
 
-When you get directed to a website from Google, Yahoo, or any other search engine, this option hides the search query that you used to find that website.
+عندما يتم توجيهك إلى موقع ويب من Google أو Yahoo أو أي محرك بحث آخر ، يخفي هذا الخيار استعلام البحث الذي استخدمته للعثور على هذا الموقع.
 
-### Ask websites not to track you {#donottrack}
+### اطلب من مواقع الويب عدم تتبعك {#donottrack}
 
-Sends the [Global Privacy Control](https://globalprivacycontrol.org/#gpc-spec) and [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track) signals to the websites you visit.
+يرسل [التحكم العالمي في الخصوصية.](https://globalprivacycontrol.org/#gpc-spec) و. [لا تتبع.](https://en.wikipedia.org/wiki/Do_Not_Track) إشارات إلى المواقع التي تزورها.
 
 ### Strip tracking parameters from URLs
 
